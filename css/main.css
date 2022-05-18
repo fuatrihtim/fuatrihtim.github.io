@@ -4370,7 +4370,7 @@ Created using IcoMoon - icomoon.io
   .nav-open .sidebar-collapse .wrapper {
     transform: translate3d(-150px, 0, 0); }
   .nav-open .sidebar-collapse .navbar-translate {
-    transform: translate3d(-300px, 0, 0); }
+    transform: translate3d(0, 0, 0); }
   .nav-open .sidebar-collapse.menu-on-left .navbar-collapse {
     transform: translate3d(0px, 0, 0); }
   .nav-open .sidebar-collapse.menu-on-left .navbar-translate {
